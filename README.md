@@ -30,7 +30,7 @@ We encountered some **difficulties** during this project, such as getting starte
 We were also **3** instead of 4 for the first two weeks.
 
 ### The link of the project :
-Link of the repo : https://github.com/SandrineLe/bcbb-the-who/tree/main
+Link of the repo : https://github.com/Aubanyx/Forum-bcbb-the-who/tree/main
 
 Link of the website on heroku : https://bcbb-thewho.herokuapp.com/index.php
 
